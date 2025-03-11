@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3BFBDE972D80EAB400C04AF2 /* LoopKitUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BFBDE962D80EAB400C04AF2 /* LoopKitUI.framework */; };
 		43047FC41FAEC70600508343 /* RadioFirmwareVersionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43047FC31FAEC70600508343 /* RadioFirmwareVersionTests.swift */; };
 		43047FC61FAEC83000508343 /* RFPacketTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43047FC51FAEC83000508343 /* RFPacketTests.swift */; };
 		43047FC71FAEC9BC00508343 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1EAD6BA1C826B92006DBA60 /* Data.swift */; };
@@ -185,6 +186,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		3BFBDE962D80EAB400C04AF2 /* LoopKitUI.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = LoopKitUI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		43047FC31FAEC70600508343 /* RadioFirmwareVersionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioFirmwareVersionTests.swift; sourceTree = "<group>"; };
 		43047FC51FAEC83000508343 /* RFPacketTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RFPacketTests.swift; sourceTree = "<group>"; };
 		431185AE1CF25A590059ED98 /* IdentifiableClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IdentifiableClass.swift; sourceTree = "<group>"; };
@@ -410,6 +412,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BFBDE972D80EAB400C04AF2 /* LoopKitUI.framework in Frameworks */,
 				432847C11FA1737400CDE69C /* RileyLinkBLEKit.framework in Frameworks */,
 				43D8708820DE1A63006B549E /* LoopKit.framework in Frameworks */,
 			);
@@ -594,6 +597,7 @@
 		C12EA239198B436800309FA4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				3BFBDE962D80EAB400C04AF2 /* LoopKitUI.framework */,
 				C13F0436230B1DE6001413FF /* MKRingProgressView.framework */,
 				43FB610B20DDF55F002B996B /* LoopKit.framework */,
 				43FB610A20DDF55E002B996B /* LoopKitUI.framework */,
