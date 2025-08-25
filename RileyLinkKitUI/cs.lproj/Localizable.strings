@@ -35,7 +35,7 @@
 "Name" = "Název";
 
 /* Detail text when battery alert disabled.
-   Text indicating LED Mode is off */
+Text indicating LED Mode is off */
 "Off" = "Vypnuto";
 
 /* Text indicating LED Mode is on */
@@ -48,7 +48,7 @@
 "Signal Strength" = "Síla signálu";
 
 /* The title of the section for orangelink commands
-   The title of the section for rileylink commands */
+The title of the section for rileylink commands */
 "Test Commands" = "Testovací příkazy";
 
 /* The title of the cell showing Test Vibration */

@@ -44,7 +44,7 @@
 "Name" = "Namn";
 
 /* Detail text when battery alert disabled.
-   Text indicating LED Mode is off */
+Text indicating LED Mode is off */
 "Off" = "Av";
 
 /* Text indicating LED Mode is on */

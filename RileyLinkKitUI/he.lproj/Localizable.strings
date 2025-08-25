@@ -68,7 +68,7 @@
 "Name" = "Name";
 
 /* Detail text when battery alert disabled.
-   Text indicating LED Mode is off */
+Text indicating LED Mode is off */
 "Off" = "כבוי";
 
 /* Text indicating LED Mode is on */
@@ -81,7 +81,7 @@
 "Signal Strength" = "עוצמת אות";
 
 /* The title of the section for orangelink commands
-   The title of the section for rileylink commands */
+The title of the section for rileylink commands */
 "Test Commands" = "בדוק פקודות";
 
 /* The title of the cell showing Test Vibration */
