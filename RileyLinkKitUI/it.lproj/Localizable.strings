@@ -11,7 +11,7 @@
 "Auto" = "Auto";
 
 /* The title of the cell showing battery level */
-"Battery level" = "Livello Batteria";
+"Battery level" = "Livello della batteria";
 
 /* The title of the section describing commands */
 "Commands" = "Comandi";
@@ -20,19 +20,19 @@
 "Connected" = "Connesso";
 
 /* The in-progress connecting state */
-"Connecting" = "In fase di Connessione";
+"Connecting" = "Collegamento";
 
 /* The title of the cell for connection LED */
-"Connection LED" = "Led di connessione";
+"Connection LED" = "LED di connessione";
 
 /* The title of the section for connection monitoring */
 "Connection Monitoring" = "Monitoraggio della connessione";
 
 /* The title of the cell showing BLE connection state */
-"Connection State" = "Stato Connessione";
+"Connection State" = "Stato della connessione";
 
 /* The title of the cell for connection vibration */
-"Connection Vibration" = "Vibrazioni di connessione";
+"Connection Vibration" = "Vibrazione di connessione";
 
 /* The title of the section describing the device */
 "Device" = "Dispositivo";
@@ -56,25 +56,25 @@
 "Frequency" = "Frequenza";
 
 /* The title of the command to fetch RileyLink statistics */
-"Get RileyLink Statistics" = "Ottieni Statistiche RileyLink";
+"Get RileyLink Statistics" = "Ottieni le statistiche di RileyLink";
 
 /* Progress message for getting statistics. */
-"Get Statistics…" = "Ottieni Statistiche...";
+"Get Statistics…" = "Ottieni statistiche…";
 
 /* The title of the cell showing Lighten Red LED */
-"Lighten Red LED" = "Accensione LED Rosso";
+"Lighten Red LED" = "Accendere il LED rosso";
 
 /* The title of the cell showing Lighten Yellow LED */
-"Lighten Yellow LED" = "Accensione LED Giallo";
+"Lighten Yellow LED" = "Accendere il LED giallo";
 
 /* The title of the cell showing battery level */
-"Low Battery Alert" = "Avviso Livello Batteria Basso";
+"Low Battery Alert" = "Avviso di batteria scarica";
 
 /* The title of the cell showing device name */
 "Name" = "Nome";
 
 /* Detail text when battery alert disabled.
-   Text indicating LED Mode is off */
+Text indicating LED Mode is off */
 "Off" = "Spento";
 
 /* Text indicating LED Mode is on */
@@ -84,23 +84,23 @@
 "RileyLink allows for communication with the pump over Bluetooth Low Energy." = "RileyLink consente la comunicazione con il microinfusore tramite Bluetooth Low Energy.";
 
 /* The title of the cell showing BLE signal strength (RSSI) */
-"Signal Strength" = "Potenza Segnale";
+"Signal Strength" = "Potenza del segnale";
 
 /* The title of the section for orangelink commands
-   The title of the section for rileylink commands */
-"Test Commands" = "Prova Comandi";
+The title of the section for rileylink commands */
+"Test Commands" = "Comandi di prova";
 
 /* The title of the cell showing Test Vibration */
 "Test Vibration" = "Vibrazione di prova";
 
 /* The title of the command to update diagnostic LEDs */
-"Toggle Diagnostic LEDs" = "Attiva/disattiva LED diagnostici";
+"Toggle Diagnostic LEDs" = "Attiva/disattiva i LED diagnostici";
 
 /* Progress message for changing diagnostic LED mode */
-"Updating diagnostic LEDs mode" = "Aggiornamento modalità LED diagnostici";
+"Updating diagnostic LEDs mode" = "Aggiornamento della modalità LED diagnostica";
 
 /* The title of the cell showing uptime */
-"Uptime" = "Tempo Attività";
+"Uptime" = "Tempo di attività";
 
 /* The title of the cell showing ORL */
 "Voltage" = "Voltaggio";

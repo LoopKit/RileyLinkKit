@@ -2,7 +2,7 @@
 "Characteristic value was empty" = "La valeur de la caractéristique est vide";
 
 /* Write size limit exceeded error description (1: size limit) */
-"Data exceeded maximum size of %@ bytes" = "Les données ont dépasséla taille maximale de %@ bytes";
+"Data exceeded maximum size of %@ bytes" = "Les données ont dépassé la taille maximale de %@ octets";
 
 /* Invalid input error description (1: input) */
 "Input %@ is invalid" = "L’entrée %@ n’est pas valide";

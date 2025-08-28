@@ -74,7 +74,7 @@
 "Name" = "Naam";
 
 /* Detail text when battery alert disabled.
-   Text indicating LED Mode is off */
+Text indicating LED Mode is off */
 "Off" = "Uit";
 
 /* Text indicating LED Mode is on */
@@ -87,7 +87,7 @@
 "Signal Strength" = "Signaalsterkte";
 
 /* The title of the section for orangelink commands
-   The title of the section for rileylink commands */
+The title of the section for rileylink commands */
 "Test Commands" = "Commando's Testen";
 
 /* The title of the cell showing Test Vibration */
