@@ -2,7 +2,7 @@
 "%@ dB" = "%@ dB";
 
 /* Unit format string for an value in percent */
-"%@%%" = "%@ %%";
+"%@%%" = "%@%%";
 
 /* The title of the section for alerts */
 "Alert" = "Avviso";
@@ -20,7 +20,7 @@
 "Connected" = "Connesso";
 
 /* The in-progress connecting state */
-"Connecting" = "Collegamento";
+"Connecting" = "Connessione in corso";
 
 /* The title of the cell for connection LED */
 "Connection LED" = "LED di connessione";
@@ -44,10 +44,10 @@
 "Disconnected" = "Disconnesso";
 
 /* The in-progress disconnecting state */
-"Disconnecting" = "Disconnessione";
+"Disconnecting" = "Disconnessione in corso";
 
 /* The title of the cell for sounding device finding piezo */
-"Find Device" = "Trova Dispositivo";
+"Find Device" = "Trova dispositivo";
 
 /* The title of the cell showing firmware version */
 "Firmware" = "Firmware";
@@ -62,10 +62,10 @@
 "Get Statistics…" = "Ottieni statistiche…";
 
 /* The title of the cell showing Lighten Red LED */
-"Lighten Red LED" = "Accendere il LED rosso";
+"Lighten Red LED" = "Accendi il LED rosso";
 
 /* The title of the cell showing Lighten Yellow LED */
-"Lighten Yellow LED" = "Accendere il LED giallo";
+"Lighten Yellow LED" = "Accendi il LED giallo";
 
 /* The title of the cell showing battery level */
 "Low Battery Alert" = "Avviso di batteria scarica";
@@ -75,13 +75,13 @@
 
 /* Detail text when battery alert disabled.
 Text indicating LED Mode is off */
-"Off" = "Spento";
+"Off" = "Disattivato";
 
 /* Text indicating LED Mode is on */
-"On" = "Acceso";
+"On" = "Attivato";
 
 /* RileyLink setup description */
-"RileyLink allows for communication with the pump over Bluetooth Low Energy." = "RileyLink consente la comunicazione con il microinfusore tramite Bluetooth Low Energy.";
+"RileyLink allows for communication with the pump over Bluetooth Low Energy." = "RileyLink consente la comunicazione con la pompa tramite Bluetooth Low Energy.";
 
 /* The title of the cell showing BLE signal strength (RSSI) */
 "Signal Strength" = "Potenza del segnale";
@@ -100,7 +100,7 @@ The title of the section for rileylink commands */
 "Updating diagnostic LEDs mode" = "Aggiornamento della modalità LED diagnostica";
 
 /* The title of the cell showing uptime */
-"Uptime" = "Tempo di attività";
+"Uptime" = "Periodo di attività";
 
 /* The title of the cell showing ORL */
 "Voltage" = "Voltaggio";
