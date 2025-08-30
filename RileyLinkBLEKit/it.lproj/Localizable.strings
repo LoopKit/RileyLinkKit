@@ -17,7 +17,7 @@
 "Peripheral isnʼt connected" = "La periferica non è connessa";
 
 /* Response timeout error description */
-"Pump did not respond in time" = "Il microinfusore non ha risposto in tempo";
+"Pump did not respond in time" = "La pompa non ha risposto in tempo";
 
 /* Invalid response error description (1: response) */
 "Response %@ is invalid" = "La risposta %@ non è valida";
