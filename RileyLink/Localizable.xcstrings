@@ -3,7 +3,6 @@
   "strings" : {
     "%@ dB" : {
       "comment" : "Unit format string for an RSSI value in decibles",
-      "extractionState" : "migrated",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -105,7 +104,6 @@
     },
     "%@%%" : {
       "comment" : "Unit format string for an value in percent",
-      "extractionState" : "migrated",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -225,7 +223,7 @@
     },
     "About" : {
       "comment" : "The title of the about section",
-      "extractionState" : "migrated",
+      "extractionState" : "manual",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -357,7 +355,7 @@
     },
     "Add Account" : {
       "comment" : "The title of the button to add the credentials for a service",
-      "extractionState" : "migrated",
+      "extractionState" : "manual",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -489,7 +487,6 @@
     },
     "Add Minimed Pump" : {
       "comment" : "Title text for button to set up a new minimed pump",
-      "extractionState" : "migrated",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -591,7 +588,6 @@
     },
     "API Secret" : {
       "comment" : "The title of the nightscout API secret credential",
-      "extractionState" : "migrated",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -612,12 +608,6 @@
           }
         },
         "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "API Secret"
-          }
-        },
-        "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "API Secret"
@@ -735,7 +725,7 @@
     },
     "Configuration" : {
       "comment" : "The title of the configuration section in settings",
-      "extractionState" : "migrated",
+      "extractionState" : "manual",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -873,7 +863,7 @@
     },
     "Delete Account" : {
       "comment" : "The title of the button to remove the credentials for a service",
-      "extractionState" : "migrated",
+      "extractionState" : "manual",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -1005,7 +995,7 @@
     },
     "Enter the 6-digit pump ID" : {
       "comment" : "The placeholder text instructing users how to enter a pump ID",
-      "extractionState" : "migrated",
+      "extractionState" : "manual",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1143,7 +1133,7 @@
     },
     "Fetch CGM" : {
       "comment" : "The title text for the pull cgm Data cell",
-      "extractionState" : "migrated",
+      "extractionState" : "manual",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -1275,7 +1265,6 @@
     },
     "http://mysite.herokuapp.com" : {
       "comment" : "The placeholder text for the nightscout site URL credential",
-      "extractionState" : "migrated",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -1290,12 +1279,6 @@
           }
         },
         "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "http://mysite.herokuapp.com"
-          }
-        },
-        "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "http://mysite.herokuapp.com"
@@ -1407,7 +1390,6 @@
     },
     "Nightscout" : {
       "comment" : "The title of the Nightscout service",
-      "extractionState" : "migrated",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1428,12 +1410,6 @@
           }
         },
         "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nightscout"
-          }
-        },
-        "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nightscout"
@@ -1545,7 +1521,7 @@
     },
     "Pump ID" : {
       "comment" : "The title text for the pump ID config value",
-      "extractionState" : "migrated",
+      "extractionState" : "manual",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1683,7 +1659,6 @@
     },
     "Pumps" : {
       "comment" : "Title text for section listing configured pumps",
-      "extractionState" : "migrated",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -1701,12 +1676,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pumpen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pumps"
           }
         },
         "es" : {
@@ -1815,7 +1784,7 @@
     },
     "Required" : {
       "comment" : "The default placeholder string for a credential",
-      "extractionState" : "migrated",
+      "extractionState" : "manual",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -1947,7 +1916,6 @@
     },
     "RileyLink Testing" : {
       "comment" : "Title for RileyLink Testing main view controller",
-      "extractionState" : "migrated",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -1965,12 +1933,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "RileyLink Testen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "RileyLink Testing"
           }
         },
         "es" : {
@@ -2079,7 +2041,6 @@
     },
     "Setup Omnipod" : {
       "comment" : "Title text for button to set up omnipod",
-      "extractionState" : "migrated",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -2094,12 +2055,6 @@
           }
         },
         "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Setup Omnipod"
-          }
-        },
-        "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Setup Omnipod"
@@ -2211,7 +2166,6 @@
     },
     "Site URL" : {
       "comment" : "The title of the nightscout site URL credential",
-      "extractionState" : "migrated",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2235,12 +2189,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Website URL"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Site URL"
           }
         },
         "es" : {
@@ -2349,7 +2297,7 @@
     },
     "Tap to set" : {
       "comment" : "The empty-state text for a configuration value",
-      "extractionState" : "migrated",
+      "extractionState" : "manual",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -2481,7 +2429,7 @@
     },
     "Upload To Nightscout" : {
       "comment" : "The title text for the nightscout upload enabled switch cell",
-      "extractionState" : "migrated",
+      "extractionState" : "manual",
       "localizations" : {
         "cs" : {
           "stringUnit" : {

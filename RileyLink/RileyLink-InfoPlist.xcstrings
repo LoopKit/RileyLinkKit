@@ -3,7 +3,7 @@
   "strings" : {
     "CFBundleDisplayName" : {
       "comment" : "Bundle display name",
-      "extractionState" : "migrated",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -20,6 +20,12 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
+            "value" : "RileyLink"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "RileyLink"
           }
         },
@@ -91,9 +97,21 @@
         }
       }
     },
+    "CFBundleGetInfoString" : {
+      "comment" : "Get Info string",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : ""
+          }
+        }
+      }
+    },
     "CFBundleName" : {
       "comment" : "Bundle name",
-      "extractionState" : "migrated",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "cs" : {
           "stringUnit" : {
@@ -110,6 +128,12 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
+            "value" : "RileyLink"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
             "value" : "RileyLink"
           }
         },
