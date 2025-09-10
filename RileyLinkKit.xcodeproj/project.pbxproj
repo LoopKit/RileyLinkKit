@@ -86,9 +86,11 @@
 		7D2366F2212527DA0028B67D /* LocalizedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2366EF212527DA0028B67D /* LocalizedString.swift */; };
 		7D2366F5212527DA0028B67D /* LocalizedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2366EF212527DA0028B67D /* LocalizedString.swift */; };
 		7D2366F6212527DA0028B67D /* LocalizedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D2366EF212527DA0028B67D /* LocalizedString.swift */; };
-		7D23679421252EBC0028B67D /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7D23679221252EBC0028B67D /* Localizable.strings */; };
-		7D23679721252EBC0028B67D /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7D23679521252EBC0028B67D /* Localizable.strings */; };
-		7D7076951FE09311004AC8EA /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7D7076971FE09311004AC8EA /* Localizable.strings */; };
+		B66D1F992E6A8BD800471149 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = B66D1F982E6A8BD800471149 /* Localizable.xcstrings */; };
+		B66D1F9B2E6A8BD800471149 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = B66D1F9A2E6A8BD800471149 /* Localizable.xcstrings */; };
+		B66D1F9D2E6A8BD800471149 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = B66D1F9C2E6A8BD800471149 /* Localizable.xcstrings */; };
+		B66D1F9F2E6A8BD800471149 /* RileyLink-InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = B66D1F9E2E6A8BD800471149 /* RileyLink-InfoPlist.xcstrings */; };
+		B66D1FA12E6A8BD800471149 /* LoopKit.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = B66D1FA02E6A8BD800471149 /* LoopKit.xcstrings */; };
 		C125728C2121D4D60061BA2F /* UITableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1B4A9581D1E6357003B8985 /* UITableViewCell.swift */; };
 		C125728D2121D56D0061BA2F /* CaseCountable.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1C659181E16BA9D0025CC58 /* CaseCountable.swift */; };
 		C125728F2121DB7C0061BA2F /* PumpManagerState.swift in Sources */ = {isa = PBXBuildFile; fileRef = C125728E2121DB7C0061BA2F /* PumpManagerState.swift */; };
@@ -100,7 +102,6 @@
 		C12EA23D198B436800309FA4 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C12EA23C198B436800309FA4 /* CoreGraphics.framework */; };
 		C12EA23F198B436800309FA4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C12EA23E198B436800309FA4 /* UIKit.framework */; };
 		C136AA76231234E1008A320D /* LoopKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 43FB610B20DDF55F002B996B /* LoopKit.framework */; };
-		C1394BA9297E49630042F1A9 /* LoopKit.strings in Resources */ = {isa = PBXBuildFile; fileRef = C1394BA7297E49630042F1A9 /* LoopKit.strings */; };
 		C13F0437230B1DE6001413FF /* MKRingProgressView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C13F0436230B1DE6001413FF /* MKRingProgressView.framework */; };
 		C14F71D426A675BC00FA09F0 /* CommandResponseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C14F71D326A675BC00FA09F0 /* CommandResponseViewController.swift */; };
 		C14FFC501D3D6DEF0049CF85 /* ServiceAuthentication.swift in Sources */ = {isa = PBXBuildFile; fileRef = C14FFC4E1D3D6DEF0049CF85 /* ServiceAuthentication.swift */; };
@@ -112,7 +113,6 @@
 		C14FFC671D3D7E390049CF85 /* KeychainManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C14FFC661D3D7E390049CF85 /* KeychainManager.swift */; };
 		C14FFC691D3D7E560049CF85 /* KeychainManager+RileyLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = C14FFC681D3D7E560049CF85 /* KeychainManager+RileyLink.swift */; };
 		C17884611D519F1E00405663 /* BatteryIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C17884601D519F1E00405663 /* BatteryIndicator.swift */; };
-		C1821695297E55A7001EB097 /* RileyLink-InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C1821693297E55A7001EB097 /* RileyLink-InfoPlist.strings */; };
 		C1B383361CD1BA8100CE7782 /* DeviceDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1B383351CD1BA8100CE7782 /* DeviceDataManager.swift */; };
 		C1B44CA7224BDFDF00DE47E5 /* LoopKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 43FB610B20DDF55F002B996B /* LoopKit.framework */; };
 		C1BB1460293835A8004CE8DA /* RileyLinkListDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1BB145F293835A8004CE8DA /* RileyLinkListDataSource.swift */; };
@@ -242,90 +242,28 @@
 		43F89CA022BDFB8D006BB54E /* UIActivityIndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIActivityIndicatorView.swift; sourceTree = "<group>"; };
 		43FB610A20DDF55E002B996B /* LoopKitUI.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = LoopKitUI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		43FB610B20DDF55F002B996B /* LoopKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = LoopKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		7D199DA4212A159900241026 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D199DAF212A159A00241026 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D199DB2212A159A00241026 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
 		7D2366EF212527DA0028B67D /* LocalizedString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizedString.swift; sourceTree = "<group>"; };
-		7D2366F8212528560028B67D /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D2366FB212529510028B67D /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D2367072125297B0028B67D /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D236713212529810028B67D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
-		7D23671F212529890028B67D /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D23672B212529950028B67D /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D2367372125299F0028B67D /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D23679321252EBC0028B67D /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D23679621252EBC0028B67D /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D23679821252F050028B67D /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D23679921252F0D0028B67D /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D23679A21252FF30028B67D /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D23679B21252FF30028B67D /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D23679C2125300A0028B67D /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D23679D2125300A0028B67D /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D23679E212530160028B67D /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D23679F212530160028B67D /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D2367A0212530230028B67D /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D2367A1212530230028B67D /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D2367A2212530300028B67D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D2367A3212530300028B67D /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D2367A42125303D0028B67D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
-		7D2367A52125303D0028B67D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
-		7D2367A62125304D0028B67D /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D2367A72125304D0028B67D /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D68AACE1FE31DEB00522C49 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D7076961FE09311004AC8EA /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BEFEA23369382005DCFD6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF00E2336A2D3005DCFD6 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF0102336A2D3005DCFD6 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF0112336A2D3005DCFD6 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF0162336A2E3005DCFD6 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF0182336A2E3005DCFD6 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF0192336A2E3005DCFD6 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF01E2336A2EA005DCFD6 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF0202336A2EA005DCFD6 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF0212336A2EA005DCFD6 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF0262336A2F1005DCFD6 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF0282336A2F2005DCFD6 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF0292336A2F2005DCFD6 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF02E2336A2FB005DCFD6 /* fi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fi; path = fi.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF0302336A2FB005DCFD6 /* fi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fi; path = fi.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF0312336A2FB005DCFD6 /* fi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fi; path = fi.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF0362336A304005DCFD6 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Localizable.strings"; sourceTree = "<group>"; };
-		7D9BF0382336A304005DCFD6 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Localizable.strings"; sourceTree = "<group>"; };
-		7D9BF0392336A304005DCFD6 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Localizable.strings"; sourceTree = "<group>"; };
-		7D9BF14F23371407005DCFD6 /* ro */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ro; path = ro.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF15123371408005DCFD6 /* ro */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ro; path = ro.lproj/Localizable.strings; sourceTree = "<group>"; };
-		7D9BF15223371408005DCFD6 /* ro */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ro; path = ro.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C11613512983096D00777E7C /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = "nb.lproj/RileyLink-InfoPlist.strings"; sourceTree = "<group>"; };
-		C11A2BD329830A3100AC5135 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = "fr.lproj/RileyLink-InfoPlist.strings"; sourceTree = "<group>"; };
+		B66D1F982E6A8BD800471149 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		B66D1F9A2E6A8BD800471149 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		B66D1F9C2E6A8BD800471149 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		B66D1F9E2E6A8BD800471149 /* RileyLink-InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = "RileyLink-InfoPlist.xcstrings"; sourceTree = "<group>"; };
+		B66D1FA02E6A8BD800471149 /* LoopKit.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = LoopKit.xcstrings; sourceTree = "<group>"; };
 		C125728E2121DB7C0061BA2F /* PumpManagerState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PumpManagerState.swift; sourceTree = "<group>"; };
 		C12572912121EEEE0061BA2F /* SettingsImageTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsImageTableViewCell.swift; sourceTree = "<group>"; };
 		C125729321220FEC0061BA2F /* MainStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = MainStoryboard.storyboard; sourceTree = "<group>"; };
 		C12616431B685F0A001FAD87 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
-		C126DD162981EE69009A0A64 /* ro */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ro; path = ro.lproj/LoopKit.strings; sourceTree = "<group>"; };
 		C1271B061A9A34E900B7C949 /* Log.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Log.m; sourceTree = "<group>"; };
 		C1271B081A9A350400B7C949 /* Log.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Log.h; sourceTree = "<group>"; };
 		C1274F7C1D82411C0002912B /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
-		C12B52E029C8142E0025DA95 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C12BCD0329BBFA490066A158 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C12BCD0429BBFA490066A158 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/LoopKit.strings; sourceTree = "<group>"; };
-		C12BCD0529BBFA490066A158 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = "cs.lproj/RileyLink-InfoPlist.strings"; sourceTree = "<group>"; };
-		C12BCD0629BBFA490066A158 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C12BCD0729BBFA490066A158 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/Localizable.strings; sourceTree = "<group>"; };
 		C12EA237198B436800309FA4 /* RileyLink.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RileyLink.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C12EA23A198B436800309FA4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C12EA23C198B436800309FA4 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		C12EA23E198B436800309FA4 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		C12EA242198B436800309FA4 /* RileyLink-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RileyLink-Info.plist"; sourceTree = "<group>"; };
-		C12EA253198B436800309FA4 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		C12EA25B198B436900309FA4 /* RileyLinkTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RileyLinkTests-Info.plist"; sourceTree = "<group>"; };
 		C12EA25F198B436900309FA4 /* RileyLinkTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RileyLinkTests.m; sourceTree = "<group>"; };
-		C1394BA8297E49630042F1A9 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/LoopKit.strings; sourceTree = "<group>"; };
 		C13F0436230B1DE6001413FF /* MKRingProgressView.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MKRingProgressView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C145BF9D2219F2EC00A977CB /* Comparable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comparable.swift; sourceTree = "<group>"; };
-		C147B997299581ED00BF55AC /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/LoopKit.strings; sourceTree = "<group>"; };
-		C147B998299581ED00BF55AC /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = "he.lproj/RileyLink-InfoPlist.strings"; sourceTree = "<group>"; };
-		C14952172995822A0095AA84 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/LoopKit.strings; sourceTree = "<group>"; };
-		C14952182995822A0095AA84 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = "ru.lproj/RileyLink-InfoPlist.strings"; sourceTree = "<group>"; };
 		C14F71D326A675BC00FA09F0 /* CommandResponseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommandResponseViewController.swift; sourceTree = "<group>"; };
 		C14FFC4E1D3D6DEF0049CF85 /* ServiceAuthentication.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServiceAuthentication.swift; sourceTree = "<group>"; };
 		C14FFC4F1D3D6DEF0049CF85 /* ServiceCredential.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServiceCredential.swift; sourceTree = "<group>"; };
@@ -335,58 +273,22 @@
 		C14FFC621D3D7CE20049CF85 /* NightscoutService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NightscoutService.swift; sourceTree = "<group>"; };
 		C14FFC661D3D7E390049CF85 /* KeychainManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeychainManager.swift; sourceTree = "<group>"; };
 		C14FFC681D3D7E560049CF85 /* KeychainManager+RileyLink.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "KeychainManager+RileyLink.swift"; sourceTree = "<group>"; };
-		C151BED32981EE6000F3A41F /* fi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fi; path = fi.lproj/LoopKit.strings; sourceTree = "<group>"; };
-		C153EBB12981EE6C000BFE9E /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/LoopKit.strings; sourceTree = "<group>"; };
-		C15A583529C7866600D3A5A1 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C15A583629C7866600D3A5A1 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/LoopKit.strings; sourceTree = "<group>"; };
 		C170C98D1CECD6F300F3D8E5 /* CBPeripheralState.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CBPeripheralState.swift; sourceTree = "<group>"; };
 		C170C9981CECD80000F3D8E5 /* RileyLinkDeviceTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RileyLinkDeviceTableViewController.swift; sourceTree = "<group>"; };
 		C17884601D519F1E00405663 /* BatteryIndicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BatteryIndicator.swift; sourceTree = "<group>"; };
-		C1821692297E55A7001EB097 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/LoopKit.strings; sourceTree = "<group>"; };
-		C1821694297E55A7001EB097 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = "es.lproj/RileyLink-InfoPlist.strings"; sourceTree = "<group>"; };
-		C18700782981EE6100E06588 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/LoopKit.strings; sourceTree = "<group>"; };
-		C18886EC29830A5E004C982D /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = "nl.lproj/RileyLink-InfoPlist.strings"; sourceTree = "<group>"; };
-		C18B7265299581C600F138D3 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = "da.lproj/RileyLink-InfoPlist.strings"; sourceTree = "<group>"; };
-		C192C60929C78711001EFEA6 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/LoopKit.strings; sourceTree = "<group>"; };
-		C1AB0C542981EE5B0020FEE5 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/LoopKit.strings; sourceTree = "<group>"; };
-		C1B0CFDF29C786BF0045B04D /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/LoopKit.strings; sourceTree = "<group>"; };
-		C1B267A32995824000BCB7C1 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/LoopKit.strings; sourceTree = "<group>"; };
-		C1B267A42995824000BCB7C1 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = "tr.lproj/RileyLink-InfoPlist.strings"; sourceTree = "<group>"; };
 		C1B383351CD1BA8100CE7782 /* DeviceDataManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeviceDataManager.swift; sourceTree = "<group>"; };
 		C1B4A9581D1E6357003B8985 /* UITableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITableViewCell.swift; sourceTree = "<group>"; };
 		C1BB145F293835A8004CE8DA /* RileyLinkListDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RileyLinkListDataSource.swift; sourceTree = "<group>"; };
-		C1BCB5C0298309C4001C50FF /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/LoopKit.strings; sourceTree = "<group>"; };
-		C1BCB5C1298309C4001C50FF /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = "it.lproj/RileyLink-InfoPlist.strings"; sourceTree = "<group>"; };
-		C1C6038C2983092100FC4128 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = "de.lproj/RileyLink-InfoPlist.strings"; sourceTree = "<group>"; };
 		C1C659181E16BA9D0025CC58 /* CaseCountable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CaseCountable.swift; sourceTree = "<group>"; };
 		C1CAB67228C696A600F6F715 /* RileyLinkDeviceProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RileyLinkDeviceProvider.swift; sourceTree = "<group>"; };
 		C1CAB67428C696D800F6F715 /* RileyLinkBluetoothDevice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RileyLinkBluetoothDevice.swift; sourceTree = "<group>"; };
-		C1CB33F72981EE650019F1C3 /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/LoopKit.strings; sourceTree = "<group>"; };
-		C1DCAF512981EE5D00118AD3 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/LoopKit.strings; sourceTree = "<group>"; };
-		C1DEE894298309EA0008194D /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C1DEE895298309EA0008194D /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/LoopKit.strings; sourceTree = "<group>"; };
-		C1DEE896298309EA0008194D /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = "sk.lproj/RileyLink-InfoPlist.strings"; sourceTree = "<group>"; };
-		C1DEE897298309EA0008194D /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C1DEE898298309EA0008194D /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C1E28AFC2981EE6600758EB3 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/LoopKit.strings; sourceTree = "<group>"; };
-		C1E693D529C786E200410918 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/LoopKit.strings"; sourceTree = "<group>"; };
-		C1E8ADD32995822300AB9EEB /* ro */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ro; path = "ro.lproj/RileyLink-InfoPlist.strings"; sourceTree = "<group>"; };
 		C1EAD6BA1C826B92006DBA60 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		C1EAD6EA1C8409A9006DBA60 /* RileyLink-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RileyLink-Bridging-Header.h"; sourceTree = "<group>"; };
 		C1EF58861B3F93FE001C8C80 /* Config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Config.h; sourceTree = "<group>"; };
 		C1EF58871B3F93FE001C8C80 /* Config.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Config.m; sourceTree = "<group>"; };
-		C1F490042995821600C8BD69 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = "pl.lproj/RileyLink-InfoPlist.strings"; sourceTree = "<group>"; };
-		C1FAB5CA29C786B000D25073 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C1FAB5CB29C786B000D25073 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/Localizable.strings; sourceTree = "<group>"; };
 		C1FC49EB2135CB2D007D0788 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C1FFAF6E212CB4F100C50C1D /* RileyLinkConnectionState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RileyLinkConnectionState.swift; sourceTree = "<group>"; };
 		C1FFAF71212FAAEF00C50C1D /* RileyLink.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = RileyLink.xcassets; sourceTree = "<group>"; };
-		F5D9C04627DAC30B002E48F6 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
-		F5D9C04827DAC30C002E48F6 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
-		F5D9C04927DAC30C002E48F6 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
-		F5E0BE2827E1DF280033557E /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/Localizable.strings; sourceTree = "<group>"; };
-		F5E0BE2A27E1DF280033557E /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/Localizable.strings; sourceTree = "<group>"; };
-		F5E0BE2B27E1DF280033557E /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -452,7 +354,7 @@
 			children = (
 				431CE7711F98564100255374 /* RileyLinkBLEKit.h */,
 				431CE7721F98564100255374 /* Info.plist */,
-				7D23679221252EBC0028B67D /* Localizable.strings */,
+				B66D1F9A2E6A8BD800471149 /* Localizable.xcstrings */,
 				431CE79D1F9BE73900255374 /* BLEFirmwareVersion.swift */,
 				431CE7A01F9D195600255374 /* CBCentralManager.swift */,
 				431CE78E1F985B6E00255374 /* CBPeripheral.swift */,
@@ -512,7 +414,7 @@
 			children = (
 				43D5E7901FAF7BFB004ACDB7 /* RileyLinkKitUI.h */,
 				43D5E7911FAF7BFB004ACDB7 /* Info.plist */,
-				7D23679521252EBC0028B67D /* Localizable.strings */,
+				B66D1F9C2E6A8BD800471149 /* Localizable.xcstrings */,
 				43709AEB20E0056F00F941B3 /* RileyLinkKitUI.xcassets */,
 				C170C98D1CECD6F300F3D8E5 /* CBPeripheralState.swift */,
 				C14F71D326A675BC00FA09F0 /* CommandResponseViewController.swift */,
@@ -606,7 +508,6 @@
 				C12EA23A198B436800309FA4 /* Foundation.framework */,
 				C12EA23C198B436800309FA4 /* CoreGraphics.framework */,
 				C12EA23E198B436800309FA4 /* UIKit.framework */,
-				C12EA253198B436800309FA4 /* XCTest.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -635,11 +536,11 @@
 		C12EA241198B436800309FA4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				7D7076971FE09311004AC8EA /* Localizable.strings */,
+				B66D1F982E6A8BD800471149 /* Localizable.xcstrings */,
 				C1EAD6EA1C8409A9006DBA60 /* RileyLink-Bridging-Header.h */,
 				C12EA242198B436800309FA4 /* RileyLink-Info.plist */,
-				C1821693297E55A7001EB097 /* RileyLink-InfoPlist.strings */,
-				C1394BA7297E49630042F1A9 /* LoopKit.strings */,
+				B66D1F9E2E6A8BD800471149 /* RileyLink-InfoPlist.xcstrings */,
+				B66D1FA02E6A8BD800471149 /* LoopKit.xcstrings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -902,7 +803,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7D23679421252EBC0028B67D /* Localizable.strings in Resources */,
+				B66D1F9B2E6A8BD800471149 /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -924,8 +825,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7D23679721252EBC0028B67D /* Localizable.strings in Resources */,
 				43709AEC20E0056F00F941B3 /* RileyLinkKitUI.xcassets in Resources */,
+				B66D1F9D2E6A8BD800471149 /* Localizable.xcstrings in Resources */,
 				43709AF020E0120F00F941B3 /* SetupImageTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -934,12 +835,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B66D1F9F2E6A8BD800471149 /* RileyLink-InfoPlist.xcstrings in Resources */,
 				C125729421220FEC0061BA2F /* MainStoryboard.storyboard in Resources */,
-				C1821695297E55A7001EB097 /* RileyLink-InfoPlist.strings in Resources */,
-				C1394BA9297E49630042F1A9 /* LoopKit.strings in Resources */,
+				B66D1FA12E6A8BD800471149 /* LoopKit.xcstrings in Resources */,
 				C1FFAF72212FAAEF00C50C1D /* RileyLink.xcassets in Resources */,
 				C1FC49EC2135CB2D007D0788 /* LaunchScreen.storyboard in Resources */,
-				7D7076951FE09311004AC8EA /* Localizable.strings in Resources */,
+				B66D1F992E6A8BD800471149 /* Localizable.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1096,146 +997,6 @@
 		};
 /* End PBXTargetDependency section */
 
-/* Begin PBXVariantGroup section */
-		7D23679221252EBC0028B67D /* Localizable.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				7D23679321252EBC0028B67D /* es */,
-				7D23679821252F050028B67D /* Base */,
-				7D23679A21252FF30028B67D /* de */,
-				7D23679C2125300A0028B67D /* fr */,
-				7D23679E212530160028B67D /* it */,
-				7D2367A0212530230028B67D /* nb */,
-				7D2367A2212530300028B67D /* ru */,
-				7D2367A42125303D0028B67D /* zh-Hans */,
-				7D2367A62125304D0028B67D /* nl */,
-				7D199DAF212A159A00241026 /* pl */,
-				7D9BF0102336A2D3005DCFD6 /* vi */,
-				7D9BF0182336A2E3005DCFD6 /* ja */,
-				7D9BF0202336A2EA005DCFD6 /* sv */,
-				7D9BF0282336A2F2005DCFD6 /* da */,
-				7D9BF0302336A2FB005DCFD6 /* fi */,
-				7D9BF0382336A304005DCFD6 /* pt-BR */,
-				7D9BF15123371408005DCFD6 /* ro */,
-				F5D9C04827DAC30C002E48F6 /* tr */,
-				F5E0BE2A27E1DF280033557E /* he */,
-				C1DEE897298309EA0008194D /* sk */,
-				C12BCD0629BBFA490066A158 /* cs */,
-			);
-			name = Localizable.strings;
-			sourceTree = "<group>";
-		};
-		7D23679521252EBC0028B67D /* Localizable.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				7D23679621252EBC0028B67D /* es */,
-				7D23679921252F0D0028B67D /* Base */,
-				7D23679B21252FF30028B67D /* de */,
-				7D23679D2125300A0028B67D /* fr */,
-				7D23679F212530160028B67D /* it */,
-				7D2367A1212530230028B67D /* nb */,
-				7D2367A3212530300028B67D /* ru */,
-				7D2367A52125303D0028B67D /* zh-Hans */,
-				7D2367A72125304D0028B67D /* nl */,
-				7D199DB2212A159A00241026 /* pl */,
-				7D9BF0112336A2D3005DCFD6 /* vi */,
-				7D9BF0192336A2E3005DCFD6 /* ja */,
-				7D9BF0212336A2EA005DCFD6 /* sv */,
-				7D9BF0292336A2F2005DCFD6 /* da */,
-				7D9BF0312336A2FB005DCFD6 /* fi */,
-				7D9BF0392336A304005DCFD6 /* pt-BR */,
-				7D9BF15223371408005DCFD6 /* ro */,
-				F5D9C04927DAC30C002E48F6 /* tr */,
-				F5E0BE2B27E1DF280033557E /* he */,
-				C1DEE898298309EA0008194D /* sk */,
-				C12BCD0729BBFA490066A158 /* cs */,
-				C1FAB5CB29C786B000D25073 /* hi */,
-				C12B52E029C8142E0025DA95 /* ar */,
-			);
-			name = Localizable.strings;
-			sourceTree = "<group>";
-		};
-		7D7076971FE09311004AC8EA /* Localizable.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				7D7076961FE09311004AC8EA /* es */,
-				7D68AACE1FE31DEB00522C49 /* ru */,
-				7D2366F8212528560028B67D /* Base */,
-				7D2366FB212529510028B67D /* fr */,
-				7D2367072125297B0028B67D /* de */,
-				7D236713212529810028B67D /* zh-Hans */,
-				7D23671F212529890028B67D /* it */,
-				7D23672B212529950028B67D /* nl */,
-				7D2367372125299F0028B67D /* nb */,
-				7D199DA4212A159900241026 /* pl */,
-				7D9BEFEA23369382005DCFD6 /* en */,
-				7D9BF00E2336A2D3005DCFD6 /* vi */,
-				7D9BF0162336A2E3005DCFD6 /* ja */,
-				7D9BF01E2336A2EA005DCFD6 /* sv */,
-				7D9BF0262336A2F1005DCFD6 /* da */,
-				7D9BF02E2336A2FB005DCFD6 /* fi */,
-				7D9BF0362336A304005DCFD6 /* pt-BR */,
-				7D9BF14F23371407005DCFD6 /* ro */,
-				F5D9C04627DAC30B002E48F6 /* tr */,
-				F5E0BE2827E1DF280033557E /* he */,
-				C1DEE894298309EA0008194D /* sk */,
-				C12BCD0329BBFA490066A158 /* cs */,
-				C15A583529C7866600D3A5A1 /* ar */,
-				C1FAB5CA29C786B000D25073 /* hi */,
-			);
-			name = Localizable.strings;
-			sourceTree = "<group>";
-		};
-		C1394BA7297E49630042F1A9 /* LoopKit.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				C1394BA8297E49630042F1A9 /* pl */,
-				C1821692297E55A7001EB097 /* es */,
-				C1AB0C542981EE5B0020FEE5 /* da */,
-				C1DCAF512981EE5D00118AD3 /* de */,
-				C151BED32981EE6000F3A41F /* fi */,
-				C18700782981EE6100E06588 /* fr */,
-				C1CB33F72981EE650019F1C3 /* nb */,
-				C1E28AFC2981EE6600758EB3 /* nl */,
-				C126DD162981EE69009A0A64 /* ro */,
-				C153EBB12981EE6C000BFE9E /* sv */,
-				C1BCB5C0298309C4001C50FF /* it */,
-				C1DEE895298309EA0008194D /* sk */,
-				C147B997299581ED00BF55AC /* he */,
-				C14952172995822A0095AA84 /* ru */,
-				C1B267A32995824000BCB7C1 /* tr */,
-				C12BCD0429BBFA490066A158 /* cs */,
-				C15A583629C7866600D3A5A1 /* ar */,
-				C1B0CFDF29C786BF0045B04D /* ja */,
-				C1E693D529C786E200410918 /* pt-BR */,
-				C192C60929C78711001EFEA6 /* vi */,
-			);
-			name = LoopKit.strings;
-			sourceTree = "<group>";
-		};
-		C1821693297E55A7001EB097 /* RileyLink-InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				C1821694297E55A7001EB097 /* es */,
-				C1C6038C2983092100FC4128 /* de */,
-				C11613512983096D00777E7C /* nb */,
-				C1BCB5C1298309C4001C50FF /* it */,
-				C1DEE896298309EA0008194D /* sk */,
-				C11A2BD329830A3100AC5135 /* fr */,
-				C18886EC29830A5E004C982D /* nl */,
-				C18B7265299581C600F138D3 /* da */,
-				C147B998299581ED00BF55AC /* he */,
-				C1F490042995821600C8BD69 /* pl */,
-				C1E8ADD32995822300AB9EEB /* ro */,
-				C14952182995822A0095AA84 /* ru */,
-				C1B267A42995824000BCB7C1 /* tr */,
-				C12BCD0529BBFA490066A158 /* cs */,
-			);
-			name = "RileyLink-InfoPlist.strings";
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
-
 /* Begin XCBuildConfiguration section */
 		431CE7861F98564200255374 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -1268,6 +1029,7 @@
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1307,6 +1069,7 @@
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -1333,7 +1096,12 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.rileylink.RileyLinkBLEKitTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1362,6 +1130,11 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.rileylink.RileyLinkBLEKitTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -1395,6 +1168,8 @@
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
@@ -1431,6 +1206,8 @@
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1468,7 +1245,9 @@
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_INSTALL_OBJC_HEADER = NO;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1508,6 +1287,8 @@
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_INSTALL_OBJC_HEADER = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSION_INFO_PREFIX = "";
@@ -1564,6 +1345,7 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				LOCALIZED_STRING_MACRO_NAMES = (
 					NSLocalizedString,
 					CFLocalizedString,
@@ -1572,6 +1354,7 @@
 				);
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1623,6 +1406,7 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				LOCALIZED_STRING_MACRO_NAMES = (
 					NSLocalizedString,
 					CFLocalizedString,
@@ -1630,6 +1414,7 @@
 					FrameworkLocalText,
 				);
 				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
@@ -1656,6 +1441,11 @@
 				PRODUCT_NAME = RileyLink;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "RileyLink/RileyLink-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -1679,6 +1469,11 @@
 				PRODUCT_NAME = RileyLink;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "RileyLink/RileyLink-Bridging-Header.h";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
