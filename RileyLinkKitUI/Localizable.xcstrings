@@ -301,6 +301,12 @@
             "state" : "translated",
             "value" : "Uyarı"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "警报"
+          }
         }
       }
     },
@@ -383,6 +389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Otomatik"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自动"
           }
         }
       }
@@ -1216,6 +1228,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bağlantı Titreşimi"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "连接振动"
           }
         }
       }
@@ -2536,6 +2554,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Düşük Pil Uyarısı"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "低电量告警"
           }
         }
       }

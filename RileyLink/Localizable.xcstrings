@@ -583,6 +583,12 @@
             "state" : "translated",
             "value" : "Minimed Pompa Ekle"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加 Minimed 泵"
+          }
         }
       }
     },
