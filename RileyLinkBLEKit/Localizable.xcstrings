@@ -1042,6 +1042,12 @@
             "state" : "translated",
             "value" : "RileyLink komutu yanıt vermedi"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RileyLink 命令没有响应"
+          }
         }
       }
     },
@@ -1136,6 +1142,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "RileyLink zamanında yanıt vermedi"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RileyLink 没有及时响应"
           }
         }
       }
@@ -1339,6 +1351,12 @@
             "state" : "translated",
             "value" : "RileyLink meşgul"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RileyLink 繁忙"
+          }
         }
       }
     },
@@ -1434,6 +1452,12 @@
             "state" : "translated",
             "value" : "RileyLink bağlı değil"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RileyLink 未连接"
+          }
         }
       }
     },
@@ -1516,6 +1540,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "RileyLink'in kapatılıp tekrar açılması gerekebilir"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RileyLink 可能需要关闭并重新开启"
           }
         }
       }
@@ -1927,6 +1957,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bilinmeyen hizmet: %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未知服务：%@"
           }
         }
       }
