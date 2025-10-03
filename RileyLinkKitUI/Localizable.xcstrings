@@ -10,6 +10,12 @@
             "value" : "%@ ديسيبل"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@ dB"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -142,6 +148,12 @@
       "comment" : "Unit format string for an value in percent",
       "localizations" : {
         "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%@%%"
+          }
+        },
+        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%@%%"
@@ -284,6 +296,12 @@
             "value" : "Alert"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Alert"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -416,6 +434,12 @@
       "comment" : "Text indicating LED Mode is auto",
       "localizations" : {
         "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Auto"
+          }
+        },
+        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Auto"
@@ -558,6 +582,12 @@
             "value" : "Battery level"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Battery level"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -691,6 +721,12 @@
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Commands"
+          }
+        },
+        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Commands"
@@ -839,6 +875,12 @@
             "value" : "Connected"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Connected"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -971,6 +1013,12 @@
       "comment" : "The in-progress connecting state",
       "localizations" : {
         "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Connecting"
+          }
+        },
+        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Connecting"
@@ -1113,6 +1161,12 @@
             "value" : "Connection LED"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Connection LED"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1245,6 +1299,12 @@
       "comment" : "The title of the section for connection monitoring",
       "localizations" : {
         "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Connection Monitoring"
+          }
+        },
+        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Connection Monitoring"
@@ -1387,6 +1447,12 @@
             "value" : "حالة الإتصال"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Connection State"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1519,6 +1585,12 @@
       "comment" : "The title of the cell for connection vibration",
       "localizations" : {
         "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Connection Vibration"
+          }
+        },
+        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Connection Vibration"
@@ -1661,6 +1733,12 @@
             "value" : "Device"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Device"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1798,6 +1876,12 @@
             "value" : "الأجهزة"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Devices"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1930,6 +2014,12 @@
       "comment" : "The disconnected state",
       "localizations" : {
         "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Disconnected"
+          }
+        },
+        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Disconnected"
@@ -2072,6 +2162,12 @@
             "value" : "Disconnecting"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Disconnecting"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2204,6 +2300,12 @@
       "comment" : "The title of the cell for sounding device finding piezo",
       "localizations" : {
         "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Find Device"
+          }
+        },
+        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Find Device"
@@ -2346,6 +2448,12 @@
             "value" : "البرنامج الثابت"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Firmware"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2478,6 +2586,12 @@
       "comment" : "The title of the cell showing current rileylink frequency",
       "localizations" : {
         "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Frequency"
+          }
+        },
+        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Frequency"
@@ -2620,6 +2734,12 @@
             "value" : "Get RileyLink Statistics"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get RileyLink Statistics"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2752,6 +2872,12 @@
       "comment" : "Progress message for getting statistics.",
       "localizations" : {
         "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get Statistics…"
+          }
+        },
+        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Get Statistics…"
@@ -2894,6 +3020,12 @@
             "value" : "Lighten Red LED"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lighten Red LED"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3026,6 +3158,12 @@
       "comment" : "The title of the cell showing Lighten Yellow LED",
       "localizations" : {
         "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lighten Yellow LED"
+          }
+        },
+        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Lighten Yellow LED"
@@ -3168,6 +3306,12 @@
             "value" : "Low Battery Alert"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Low Battery Alert"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3305,6 +3449,12 @@
             "value" : "الاسم"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Name"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3437,6 +3587,12 @@
       "comment" : "Detail text when battery alert disabled.\nText indicating LED Mode is off",
       "localizations" : {
         "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Off"
+          }
+        },
+        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Off"
@@ -3579,6 +3735,12 @@
             "value" : "On"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3711,6 +3873,12 @@
       "comment" : "RileyLink setup description",
       "localizations" : {
         "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "RileyLink allows for communication with the pump over Bluetooth Low Energy."
+          }
+        },
+        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "RileyLink allows for communication with the pump over Bluetooth Low Energy."
@@ -3853,6 +4021,12 @@
             "value" : "Signal Strength"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Signal Strength"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3985,6 +4159,12 @@
       "comment" : "The title of the section for orangelink commands\nThe title of the section for rileylink commands",
       "localizations" : {
         "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Test Commands"
+          }
+        },
+        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Test Commands"
@@ -4127,6 +4307,12 @@
             "value" : "Test Vibration"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Test Vibration"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4259,6 +4445,12 @@
       "comment" : "The title of the command to update diagnostic LEDs",
       "localizations" : {
         "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Toggle Diagnostic LEDs"
+          }
+        },
+        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Toggle Diagnostic LEDs"
@@ -4401,6 +4593,12 @@
             "value" : "Updating diagnostic LEDs mode"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Updating diagnostic LEDs mode"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4538,6 +4736,12 @@
             "value" : "Uptime"
           }
         },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Uptime"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4670,6 +4874,12 @@
       "comment" : "The title of the cell showing ORL",
       "localizations" : {
         "ar" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Voltage"
+          }
+        },
+        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Voltage"
