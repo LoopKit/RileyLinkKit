@@ -16,6 +16,12 @@
             "value" : "%@ dB"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ dB"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36,7 +42,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@ dB"
           }
         },
@@ -48,7 +54,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@ dB"
           }
         },
@@ -59,6 +65,12 @@
           }
         },
         "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ dB"
+          }
+        },
+        "nb" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ dB"
@@ -78,7 +90,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@ dB"
           }
         },
@@ -91,6 +103,12 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "%@ dB"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "%@ dB"
           }
         },
@@ -114,7 +132,7 @@
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@ dB"
           }
         },
@@ -159,39 +177,45 @@
             "value" : "%@%%"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ %%"
+          }
+        },
         "da" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@%%"
           }
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@%%"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@%%"
           }
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@%%"
           }
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@%%"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@%%"
           }
         },
@@ -204,7 +228,19 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ %%"
+            "value" : "%@%%"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%%"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%%"
           }
         },
         "nb-NO" : {
@@ -215,13 +251,13 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@%%"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@%%"
           }
         },
@@ -233,13 +269,19 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
+            "value" : "%@%%"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "%@%%"
           }
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@%%"
           }
         },
@@ -251,13 +293,13 @@
         },
         "sv" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@%%"
           }
         },
         "tr" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@%%"
           }
         },
@@ -269,7 +311,7 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@%%"
           }
         },
@@ -350,6 +392,12 @@
             "value" : "Avviso"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varsel"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -378,6 +426,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Alert"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alertă"
           }
         },
         "ru" : {
@@ -424,8 +478,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Alert"
+            "state" : "translated",
+            "value" : "警报"
           }
         }
       }
@@ -454,7 +508,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Automatisch"
+            "value" : "Auto"
           }
         },
         "es" : {
@@ -493,6 +547,12 @@
             "value" : "Auto"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -523,6 +583,12 @@
             "value" : "Auto"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automat"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -532,7 +598,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Automatická "
+            "value" : "Auto"
           }
         },
         "sv" : {
@@ -567,8 +633,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto"
+            "state" : "translated",
+            "value" : "自动"
           }
         }
       }
@@ -786,6 +852,18 @@
             "value" : "Comandi"
           }
         },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コマンド"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kommandoer"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -814,6 +892,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Comandos"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comenzi"
           }
         },
         "ru" : {
@@ -849,7 +933,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Các câu lệnh"
+            "value" : "Commands"
           }
         },
         "yy-YY" : {
@@ -1212,7 +1296,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Led di connessione"
+            "value" : "LED di connessione"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lysdiode for tilkobling"
           }
         },
         "nb-NO" : {
@@ -1243,6 +1333,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Connection LED"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LED de conectare"
           }
         },
         "ru" : {
@@ -1289,8 +1385,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection LED"
+            "state" : "translated",
+            "value" : "连接 LED"
           }
         }
       }
@@ -1358,6 +1454,12 @@
             "value" : "Monitoraggio della connessione"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overvåking av tilkobling"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1367,7 +1469,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Controle van de verbinding"
+            "value" : "Verbindingsbewaking"
           }
         },
         "pl" : {
@@ -1386,6 +1488,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Connection Monitoring"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monitorizarea conexiunii"
           }
         },
         "ru" : {
@@ -1480,13 +1588,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etat de connexion"
+            "value" : "État de connexion"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection State"
+            "state" : "translated",
+            "value" : "מצב החיבור"
           }
         },
         "hu" : {
@@ -1498,7 +1606,19 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stato Connessione"
+            "value" : "Stato della connessione"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "接続状態"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilkoblingsstatus"
           }
         },
         "nb-NO" : {
@@ -1529,6 +1649,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Estado da Conexão"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stare conexiune"
           }
         },
         "ru" : {
@@ -1564,7 +1690,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tình trạng Kết nối"
+            "value" : "Tình trạng kết nối"
           }
         },
         "yy-YY" : {
@@ -1641,7 +1767,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vibrazioni di connessione"
+            "value" : "Vibrazione di connessione"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilkoblingsvibrasjon"
           }
         },
         "nb-NO" : {
@@ -1653,7 +1785,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verbinding vibraties"
+            "value" : "Verbinding Trilling"
           }
         },
         "pl" : {
@@ -1672,6 +1804,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Connection Vibration"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vibrare la conexiune"
           }
         },
         "ru" : {
@@ -1718,8 +1856,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection Vibration"
+            "state" : "translated",
+            "value" : "连接振动"
           }
         }
       }
@@ -1771,7 +1909,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Device"
           }
         },
@@ -1785,6 +1923,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dispositivo"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デバイス"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enhet"
           }
         },
         "nb-NO" : {
@@ -1815,6 +1965,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dispositivo"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dispozitiv"
           }
         },
         "ru" : {
@@ -1902,19 +2058,19 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Devices"
+            "state" : "translated",
+            "value" : "Laitteet"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Appareils"
+            "value" : "Dispositifs"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Devices"
           }
         },
@@ -1928,6 +2084,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dispositivi"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デバイス"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enheter"
           }
         },
         "nb-NO" : {
@@ -1944,8 +2112,8 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Devices"
+            "state" : "translated",
+            "value" : "Urządzenia"
           }
         },
         "pt" : {
@@ -1958,6 +2126,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dispositivos"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dispozitive"
           }
         },
         "ru" : {
@@ -1981,7 +2155,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aygıtlar"
+            "value" : "Cihazlar"
           }
         },
         "uk" : {
@@ -2213,7 +2387,19 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Disconnessione"
+            "value" : "Disconnessione in corso"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "接続を切っています"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kobler fra"
           }
         },
         "nb-NO" : {
@@ -2244,6 +2430,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Desconectando"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se deconectează"
           }
         },
         "ru" : {
@@ -2301,7 +2493,7 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Find Device"
           }
         },
@@ -2343,7 +2535,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Find Device"
           }
         },
@@ -2356,7 +2548,19 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trova Dispositivo"
+            "value" : "Trova dispositivo"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デバイスを探す"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finn enhet"
           }
         },
         "nb-NO" : {
@@ -2368,7 +2572,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zoek apparaat"
+            "value" : "Zoek Apparaat"
           }
         },
         "pl" : {
@@ -2387,6 +2591,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Localizar Dispositivo"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caută dispozitivul"
           }
         },
         "ru" : {
@@ -2454,6 +2664,12 @@
             "value" : "Firmware"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Firmware"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2481,13 +2697,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Microprogramme"
+            "value" : "Firmware"
           }
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Firmware"
+            "state" : "translated",
+            "value" : "קושחה"
           }
         },
         "hu" : {
@@ -2500,6 +2716,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Firmware"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファームウェア"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fastvare"
           }
         },
         "nb-NO" : {
@@ -2528,7 +2756,13 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
+            "value" : "Firmware"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Firmware"
           }
         },
@@ -2553,7 +2787,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aygıt Yazılımı"
+            "value" : "Donanım yazılımı"
           }
         },
         "uk" : {
@@ -2565,7 +2799,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Phần mềm"
+            "value" : "Firmware"
           }
         },
         "yy-YY" : {
@@ -2595,6 +2829,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Frequency"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frekvence"
           }
         },
         "da" : {
@@ -2629,7 +2869,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Frequency"
           }
         },
@@ -2643,6 +2883,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Frequenza"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frequency"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frekvens"
           }
         },
         "nb-NO" : {
@@ -2659,7 +2911,7 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Frequency"
           }
         },
@@ -2673,6 +2925,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Frequência"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frecvență"
           }
         },
         "ru" : {
@@ -2719,7 +2977,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Frequency"
           }
         }
@@ -2738,6 +2996,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Get RileyLink Statistics"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Získat statistiky RileyLink"
           }
         },
         "da" : {
@@ -2785,7 +3049,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ottieni Statistiche RileyLink"
+            "value" : "Ottieni le statistiche di RileyLink"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vis Rileylink statistikk"
           }
         },
         "nb-NO" : {
@@ -2797,7 +3067,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "RileyLink statistieken ophalen"
+            "value" : "RileyLink Statistieken Ophalen"
           }
         },
         "pl" : {
@@ -2816,6 +3086,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Get RileyLink Statistics"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obțineți statisticile despre RileyLink"
           }
         },
         "ru" : {
@@ -2862,8 +3138,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Get RileyLink Statistics"
+            "state" : "translated",
+            "value" : "获取 RileyLink 统计数据"
           }
         }
       }
@@ -2881,6 +3157,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Get Statistics…"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Získávám statistiky…"
           }
         },
         "da" : {
@@ -2915,7 +3197,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Get Statistics…"
           }
         },
@@ -2928,7 +3210,19 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ottieni Statistiche..."
+            "value" : "Ottieni statistiche…"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "統計を取得…"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Henter statistikk…"
           }
         },
         "nb-NO" : {
@@ -2940,7 +3234,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Statistieken ophalen..."
+            "value" : "Statistieken Ophalen..."
           }
         },
         "pl" : {
@@ -2959,6 +3253,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Extrair Estatísticas…"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obțineți statistici..."
           }
         },
         "ru" : {
@@ -3005,8 +3305,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Get Statistics…"
+            "state" : "translated",
+            "value" : "获取统计数据..."
           }
         }
       }
@@ -3024,6 +3324,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Lighten Red LED"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rozsvícení červené LED diody"
           }
         },
         "da" : {
@@ -3071,7 +3377,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Accensione LED Rosso"
+            "value" : "Accendi il LED rosso"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Øke rødt LED"
           }
         },
         "nb-NO" : {
@@ -3083,7 +3395,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rode LED verlichten"
+            "value" : "Rode LED Verlichten"
           }
         },
         "pl" : {
@@ -3104,10 +3416,16 @@
             "value" : "Lighten Red LED"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aprindeți LED-ul roșu"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Светло-красный светодиод"
+            "value" : "Lighten Red LED"
           }
         },
         "sk" : {
@@ -3169,6 +3487,12 @@
             "value" : "Lighten Yellow LED"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rozsvícení žluté LED diody"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3214,7 +3538,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Accensione LED Giallo"
+            "value" : "Accendi il LED giallo"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Øke gult LED"
           }
         },
         "nb-NO" : {
@@ -3226,7 +3556,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gele LED verlichten"
+            "value" : "Gele LED Verlichten"
           }
         },
         "pl" : {
@@ -3247,10 +3577,16 @@
             "value" : "Lighten Yellow LED"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aprindeți LED-ul galben"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Светло-желтый светодиод"
+            "value" : "Lighten Yellow LED"
           }
         },
         "sk" : {
@@ -3312,6 +3648,12 @@
             "value" : "Low Battery Alert"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upozornění na vybitou baterii"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3357,7 +3699,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Avviso Livello Batteria Basso"
+            "value" : "Avviso di batteria scarica"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varsel om lavt batterinivå"
           }
         },
         "nb-NO" : {
@@ -3369,7 +3717,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alarm: batterij bijna leeg"
+            "value" : "Batterij Bijna Leeg Alarm"
           }
         },
         "pl" : {
@@ -3388,6 +3736,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Low Battery Alert"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alertă baterie scăzută"
           }
         },
         "ru" : {
@@ -3434,8 +3788,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Battery Alert"
+            "state" : "translated",
+            "value" : "低电量告警"
           }
         }
       }
@@ -3453,6 +3807,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Name"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Název"
           }
         },
         "da" : {
@@ -3487,8 +3847,14 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Name"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "नाम"
           }
         },
         "hu" : {
@@ -3501,6 +3867,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nome"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プリセット名"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Navn"
           }
         },
         "nb-NO" : {
@@ -3517,8 +3895,8 @@
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Name"
+            "state" : "translated",
+            "value" : "Nazwa"
           }
         },
         "pt" : {
@@ -3533,10 +3911,16 @@
             "value" : "Nome"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nume"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Название"
+            "value" : "Имя"
           }
         },
         "sk" : {
@@ -3884,6 +4268,12 @@
             "value" : "RileyLink allows for communication with the pump over Bluetooth Low Energy."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RileyLink umožňuje komunikaci s pumpou přes Bluetooth Low Energy."
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3929,7 +4319,19 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "RileyLink consente la comunicazione con il microinfusore tramite Bluetooth Low Energy."
+            "value" : "RileyLink consente la comunicazione con la pompa tramite Bluetooth Low Energy."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RileyLink は Bluetooth Low Energy を通してポンプと通信します。"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RileyLink tillater kommunikasjon med pumpen over Bluetooth Low Energy."
           }
         },
         "nb-NO" : {
@@ -3960,6 +4362,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O RileyLink permite a comunicação com a bomba por Bluetooth de Baixa Energia."
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RileyLink facilitează conexiunea cu pompa prin intermediul Bluetooth Low Energy."
           }
         },
         "ru" : {
@@ -4027,6 +4435,12 @@
             "value" : "Signal Strength"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Síla signálu"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4072,7 +4486,19 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Potenza segnale"
+            "value" : "Potenza del segnale"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "シグナル強度"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Signalstyrke"
           }
         },
         "nb-NO" : {
@@ -4103,6 +4529,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Potência do Sinal"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Putere semnal"
           }
         },
         "ru" : {
@@ -4170,6 +4602,12 @@
             "value" : "Test Commands"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Testovací příkazy"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4215,7 +4653,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prova Comandi"
+            "value" : "Comandi di prova"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Testkommandoer"
           }
         },
         "nb-NO" : {
@@ -4227,7 +4671,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Commando's testen"
+            "value" : "Commando's Testen"
           }
         },
         "pl" : {
@@ -4246,6 +4690,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Test Commands"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Testați comenzile"
           }
         },
         "ru" : {
@@ -4313,6 +4763,12 @@
             "value" : "Test Vibration"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vibrační test"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4361,6 +4817,12 @@
             "value" : "Vibrazione di prova"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test Vibrering"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4370,7 +4832,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Test vibraties"
+            "value" : "Test Trillingen"
           }
         },
         "pl" : {
@@ -4389,6 +4851,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Test Vibration"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Testați vibrația"
           }
         },
         "ru" : {
@@ -4456,6 +4924,12 @@
             "value" : "Toggle Diagnostic LEDs"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přepínání diagnostických LED"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4501,7 +4975,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Attiva/disattiva LED diagnostici"
+            "value" : "Attiva/disattiva i LED diagnostici"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slå av/på diagnoselysdioder"
           }
         },
         "nb-NO" : {
@@ -4513,7 +4993,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schakelen tussen diagnostische LED's"
+            "value" : "Tokkel de Diagnostische LED's"
           }
         },
         "pl" : {
@@ -4532,6 +5012,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Toggle Diagnostic LEDs"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comutarea LED-urilor de diagnosticare"
           }
         },
         "ru" : {
@@ -4599,6 +5085,12 @@
             "value" : "Updating diagnostic LEDs mode"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualizace režimu diagnostických LED"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4644,7 +5136,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aggiornamento modalità LED diagnostici"
+            "value" : "Aggiornamento della modalità LED diagnostica"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oppdaterer innstillinger for diagnoselysdioder"
           }
         },
         "nb-NO" : {
@@ -4675,6 +5173,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Updating diagnostic LEDs mode"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizarea modului de diagnostic al LED-urilor"
           }
         },
         "ru" : {
@@ -4742,6 +5246,12 @@
             "value" : "Uptime"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doba provozu"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4757,7 +5267,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiempo de actividad"
+            "value" : "Uptime"
           }
         },
         "fi" : {
@@ -4774,7 +5284,7 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Uptime"
           }
         },
@@ -4787,7 +5297,19 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tempo attività"
+            "value" : "Periodo di attività"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アップタイム"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oppetid"
           }
         },
         "nb-NO" : {
@@ -4799,12 +5321,12 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tijd"
+            "value" : "Uptime"
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Uptime"
           }
         },
@@ -4820,10 +5342,16 @@
             "value" : "Tempo de Atividade"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Durată de funcționare"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Время работы"
+            "value" : "Uptime"
           }
         },
         "sk" : {
@@ -4864,7 +5392,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Uptime"
           }
         }
@@ -4885,10 +5413,16 @@
             "value" : "Voltage"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Napětí"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spænding"
+            "value" : "Voltage"
           }
         },
         "de" : {
@@ -4933,6 +5467,12 @@
             "value" : "Voltaggio"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spenning (V)"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4942,7 +5482,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voltage"
+            "value" : "Spanning"
           }
         },
         "pl" : {
@@ -4961,6 +5501,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Voltage"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voltaj"
           }
         },
         "ru" : {
