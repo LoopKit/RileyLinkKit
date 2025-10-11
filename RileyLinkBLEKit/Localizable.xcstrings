@@ -470,6 +470,12 @@
       "comment" : "Timeout error description",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الجهاز الطرفي لم يستجب في الوقت المحدد"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -602,6 +608,12 @@
       "comment" : "Not ready error description",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الجهاز الطرفي غير متصل"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1673,6 +1685,12 @@
       "comment" : "Error description",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خاصية مجهولة"
+          }
+        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
