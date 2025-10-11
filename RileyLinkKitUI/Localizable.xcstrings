@@ -12,7 +12,7 @@
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@ dB"
           }
         },
@@ -60,7 +60,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@ dB"
           }
         },
@@ -102,7 +102,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@ dB"
           }
         },
@@ -150,7 +150,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@ dB"
           }
         }
@@ -161,13 +161,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@%%"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@%%"
           }
         },
@@ -215,7 +215,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@%%"
           }
         },
@@ -299,7 +299,7 @@
         },
         "uk" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@%%"
           }
         },
@@ -311,7 +311,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@%%"
           }
         }
@@ -322,13 +322,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Alert"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Alert"
           }
         },
@@ -352,7 +352,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Alert"
           }
         },
@@ -370,7 +370,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Alert"
           }
         },
@@ -412,7 +412,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Alert"
           }
         },
@@ -471,13 +471,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Auto"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Auto"
           }
         },
@@ -501,7 +501,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Auto"
           }
         },
@@ -519,7 +519,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Auto"
           }
         },
@@ -561,7 +561,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Auto"
           }
         },
@@ -758,13 +758,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Commands"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Commands"
           }
         },
@@ -812,7 +812,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Commands"
           }
         },
@@ -1193,13 +1193,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection LED"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection LED"
           }
         },
@@ -1223,7 +1223,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection LED"
           }
         },
@@ -1241,7 +1241,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection LED"
           }
         },
@@ -1283,7 +1283,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection LED"
           }
         },
@@ -1342,13 +1342,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection Monitoring"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection Monitoring"
           }
         },
@@ -1372,7 +1372,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection Monitoring"
           }
         },
@@ -1384,13 +1384,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection Monitoring"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection Monitoring"
           }
         },
@@ -1432,7 +1432,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection Monitoring"
           }
         },
@@ -1480,7 +1480,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection Monitoring"
           }
         }
@@ -1497,7 +1497,7 @@
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection State"
           }
         },
@@ -1646,13 +1646,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection Vibration"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection Vibration"
           }
         },
@@ -1676,7 +1676,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection Vibration"
           }
         },
@@ -1694,7 +1694,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection Vibration"
           }
         },
@@ -1736,7 +1736,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connection Vibration"
           }
         },
@@ -1795,13 +1795,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Device"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Device"
           }
         },
@@ -1843,7 +1843,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Device"
           }
         },
@@ -1956,7 +1956,7 @@
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Devices"
           }
         },
@@ -2242,13 +2242,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Disconnecting"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Disconnecting"
           }
         },
@@ -2290,7 +2290,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Disconnecting"
           }
         },
@@ -2403,7 +2403,7 @@
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Find Device"
           }
         },
@@ -2445,7 +2445,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Find Device"
           }
         },
@@ -2558,7 +2558,7 @@
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Firmware"
           }
         },
@@ -2713,13 +2713,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Frequency"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Frequency"
           }
         },
@@ -2767,7 +2767,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Frequency"
           }
         },
@@ -2874,13 +2874,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Get RileyLink Statistics"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Get RileyLink Statistics"
           }
         },
@@ -2910,7 +2910,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Get RileyLink Statistics"
           }
         },
@@ -2922,13 +2922,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Get RileyLink Statistics"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Get RileyLink Statistics"
           }
         },
@@ -2970,7 +2970,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Get RileyLink Statistics"
           }
         },
@@ -3029,13 +3029,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Get Statistics…"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Get Statistics…"
           }
         },
@@ -3083,7 +3083,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Get Statistics…"
           }
         },
@@ -3190,13 +3190,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Lighten Red LED"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Lighten Red LED"
           }
         },
@@ -3226,7 +3226,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Lighten Red LED"
           }
         },
@@ -3244,7 +3244,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Lighten Red LED"
           }
         },
@@ -3286,7 +3286,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Lighten Red LED"
           }
         },
@@ -3334,7 +3334,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Lighten Red LED"
           }
         }
@@ -3345,13 +3345,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Lighten Yellow LED"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Lighten Yellow LED"
           }
         },
@@ -3381,7 +3381,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Lighten Yellow LED"
           }
         },
@@ -3399,7 +3399,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Lighten Yellow LED"
           }
         },
@@ -3441,7 +3441,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Lighten Yellow LED"
           }
         },
@@ -3489,7 +3489,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Lighten Yellow LED"
           }
         }
@@ -3500,13 +3500,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Low Battery Alert"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Low Battery Alert"
           }
         },
@@ -3536,7 +3536,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Low Battery Alert"
           }
         },
@@ -3554,7 +3554,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Low Battery Alert"
           }
         },
@@ -3596,7 +3596,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Low Battery Alert"
           }
         },
@@ -3661,7 +3661,7 @@
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Name"
           }
         },
@@ -4096,13 +4096,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "RileyLink allows for communication with the pump over Bluetooth Low Energy."
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "RileyLink allows for communication with the pump over Bluetooth Low Energy."
           }
         },
@@ -4150,7 +4150,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "RileyLink allows for communication with the pump over Bluetooth Low Energy."
           }
         },
@@ -4257,13 +4257,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Signal Strength"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Signal Strength"
           }
         },
@@ -4311,7 +4311,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Signal Strength"
           }
         },
@@ -4418,13 +4418,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Test Commands"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Test Commands"
           }
         },
@@ -4454,7 +4454,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Test Commands"
           }
         },
@@ -4472,7 +4472,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Test Commands"
           }
         },
@@ -4514,7 +4514,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Test Commands"
           }
         },
@@ -4562,7 +4562,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Test Commands"
           }
         }
@@ -4573,13 +4573,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Test Vibration"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Test Vibration"
           }
         },
@@ -4609,7 +4609,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Test Vibration"
           }
         },
@@ -4627,7 +4627,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Test Vibration"
           }
         },
@@ -4669,7 +4669,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Test Vibration"
           }
         },
@@ -4717,7 +4717,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Test Vibration"
           }
         }
@@ -4728,13 +4728,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Toggle Diagnostic LEDs"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Toggle Diagnostic LEDs"
           }
         },
@@ -4764,7 +4764,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Toggle Diagnostic LEDs"
           }
         },
@@ -4776,13 +4776,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Toggle Diagnostic LEDs"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Toggle Diagnostic LEDs"
           }
         },
@@ -4824,7 +4824,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Toggle Diagnostic LEDs"
           }
         },
@@ -4872,7 +4872,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Toggle Diagnostic LEDs"
           }
         }
@@ -4883,13 +4883,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Updating diagnostic LEDs mode"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Updating diagnostic LEDs mode"
           }
         },
@@ -4919,7 +4919,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Updating diagnostic LEDs mode"
           }
         },
@@ -4931,13 +4931,13 @@
         },
         "he" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Updating diagnostic LEDs mode"
           }
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Updating diagnostic LEDs mode"
           }
         },
@@ -4979,7 +4979,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Updating diagnostic LEDs mode"
           }
         },
@@ -5027,7 +5027,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Updating diagnostic LEDs mode"
           }
         }
@@ -5038,13 +5038,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Uptime"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Uptime"
           }
         },
@@ -5092,7 +5092,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Uptime"
           }
         },
@@ -5199,13 +5199,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Voltage"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Voltage"
           }
         },
@@ -5235,7 +5235,7 @@
         },
         "fi" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Voltage"
           }
         },
@@ -5253,7 +5253,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Voltage"
           }
         },
@@ -5295,7 +5295,7 @@
         },
         "pt-BR" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Voltage"
           }
         },
@@ -5343,7 +5343,7 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Voltage"
           }
         }

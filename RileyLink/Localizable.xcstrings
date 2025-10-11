@@ -4,6 +4,12 @@
     "%@ dB" : {
       "comment" : "Unit format string for an RSSI value in decibles",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ديسيبل"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -70,6 +76,12 @@
             "value" : "%@ dB"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ dB"
+          }
+        },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
@@ -99,12 +111,30 @@
             "state" : "translated",
             "value" : "%@ dB"
           }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ dB"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ dB"
+          }
         }
       }
     },
     "%@%%" : {
       "comment" : "Unit format string for an value in percent",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%%"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -214,6 +244,12 @@
           }
         },
         "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@%%"
+          }
+        },
+        "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@%%"
@@ -357,6 +393,12 @@
       "comment" : "The title of the button to add the credentials for a service",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Account"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2305,6 +2347,12 @@
       "comment" : "The empty-state text for a configuration value",
       "extractionState" : "manual",
       "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap to set"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
