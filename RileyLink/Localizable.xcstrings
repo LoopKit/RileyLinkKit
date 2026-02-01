@@ -2105,7 +2105,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Setup Omnipod"
+            "value" : "Omnipod einrichten"
           }
         },
         "es" : {
@@ -2207,7 +2207,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Setup Omnipod"
+            "value" : "设置 Omnipod"
           }
         }
       }

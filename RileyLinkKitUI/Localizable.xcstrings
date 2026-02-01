@@ -747,7 +747,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Battery level"
+            "value" : "电量"
           }
         }
       }
@@ -3949,7 +3949,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Off"
+            "value" : "关"
           }
         }
       }
