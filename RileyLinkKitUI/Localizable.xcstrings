@@ -708,6 +708,12 @@
             "value" : "Battery level"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nivelul bateriei"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -919,13 +925,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connected"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connected"
           }
         },
@@ -1007,6 +1013,12 @@
             "value" : "Conectado"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectat"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1056,13 +1068,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connecting"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connecting"
           }
         },
@@ -1104,7 +1116,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connecting"
           }
         },
@@ -1142,6 +1154,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Conectando"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se conectează"
           }
         },
         "ru" : {
@@ -2105,13 +2123,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Disconnected"
           }
         },
         "ce" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Disconnected"
           }
         },
@@ -2153,7 +2171,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Disconnected"
           }
         },
@@ -2191,6 +2209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Desconectado"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deconectat"
           }
         },
         "ru" : {
@@ -3910,6 +3934,12 @@
             "value" : "Off"
           }
         },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oprit"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4045,6 +4075,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ligado"
+          }
+        },
+        "ro" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pornit"
           }
         },
         "ru" : {

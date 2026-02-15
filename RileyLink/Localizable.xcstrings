@@ -2046,7 +2046,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "RileyLink Testing"
+            "value" : "Testarea RileyLink"
           }
         },
         "ru" : {
@@ -2171,7 +2171,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Setup Omnipod"
+            "value" : "Configurare Omnipod"
           }
         },
         "ru" : {
@@ -2440,7 +2440,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Apăsați pentru setare"
+            "value" : "Atingeți pentru a seta"
           }
         },
         "ru" : {
