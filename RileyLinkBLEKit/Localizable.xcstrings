@@ -563,7 +563,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dispozitivul periferic nu a răspuns în timp util"
+            "value" : "Dispozitivul periferic nu a răspuns la timp"
           }
         },
         "ru" : {
