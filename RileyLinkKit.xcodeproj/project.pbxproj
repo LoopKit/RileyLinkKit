@@ -782,10 +782,9 @@
 				sk,
 				cs,
 				ar,
-				hi,
-				ce,
 				hu,
 				uk,
+				ko,
 			);
 			mainGroup = C12EA22E198B436800309FA4;
 			productRefGroup = C12EA238198B436800309FA4 /* Products */;
