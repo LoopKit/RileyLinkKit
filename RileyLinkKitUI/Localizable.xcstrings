@@ -1308,7 +1308,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "LED de conectare"
+            "value" : "LED conectare"
           }
         },
         "ru" : {
@@ -2524,7 +2524,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută dispozitivul"
+            "value" : "Căutați dispozitivul"
           }
         },
         "ru" : {
@@ -3317,7 +3317,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aprindeți LED-ul roșu"
+            "value" : "Aprindeți LED roșu"
           }
         },
         "ru" : {
@@ -3472,7 +3472,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aprindeți LED-ul galben"
+            "value" : "Aprindeți LED galben"
           }
         },
         "ru" : {
@@ -4867,7 +4867,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comutarea LED-urilor de diagnosticare"
+            "value" : "Comutați diagnosticare LED"
           }
         },
         "ru" : {
@@ -5022,7 +5022,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actualizarea modului de diagnostic al LED-urilor"
+            "value" : "Actualizarea modului de diagnostic LED"
           }
         },
         "ru" : {

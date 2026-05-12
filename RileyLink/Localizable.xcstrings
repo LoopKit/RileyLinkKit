@@ -486,7 +486,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă cont"
+            "value" : "Adăugați cont"
           }
         },
         "ru" : {
@@ -599,7 +599,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă pompă Minimed"
+            "value" : "Adăugați pompă Minimed"
           }
         },
         "ru" : {
@@ -730,7 +730,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Secretul API"
+            "value" : "Secret API"
           }
         },
         "ru" : {
@@ -1000,7 +1000,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Șterge cont"
+            "value" : "Ștergeți cont"
           }
         },
         "ru" : {
@@ -1138,7 +1138,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceți ID-ul de pompă din 6 cifre"
+            "value" : "Introduceți ID pompă din 6 cifre"
           }
         },
         "ru" : {
@@ -1270,7 +1270,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transferă din CGM"
+            "value" : "Preluați CGM"
           }
         },
         "ru" : {
@@ -2171,7 +2171,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Configurare Omnipod"
+            "value" : "Configurați Omnipod"
           }
         },
         "ru" : {
@@ -2572,7 +2572,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Încărcare în Nightscout"
+            "value" : "Încărcați în Nightscout"
           }
         },
         "ru" : {

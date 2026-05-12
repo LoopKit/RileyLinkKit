@@ -168,7 +168,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Datele depășesc cantitatea maximă de %@ bytes"
+            "value" : "Datele au depășit dimensiunea maximă de %@ octeți"
           }
         },
         "ru" : {
@@ -563,7 +563,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dispozitivul periferic nu a răspuns la timp"
+            "value" : "Perifericul nu a răspuns la timp"
           }
         },
         "ru" : {
@@ -695,7 +695,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dispozitivul periferic nu este conectat"
+            "value" : "Perifericul nu este conectat"
           }
         },
         "ru" : {
@@ -814,7 +814,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pompa nu a răspuns în timp util"
+            "value" : "Pompa nu a răspuns la timp"
           }
         },
         "ru" : {
@@ -1129,7 +1129,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "RileyLink nu a răspuns în timp util"
+            "value" : "RileyLink nu a răspuns la timp"
           }
         },
         "ru" : {
@@ -1242,7 +1242,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Firmware-ul RileyLink nu poate efectua %@ comanda"
+            "value" : "Firmware RileyLink nu poate efectua comanda %@"
           }
         },
         "ru" : {
@@ -1343,7 +1343,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "RileyLink-ul este ocupat"
+            "value" : "RileyLink este ocupat"
           }
         },
         "ru" : {
