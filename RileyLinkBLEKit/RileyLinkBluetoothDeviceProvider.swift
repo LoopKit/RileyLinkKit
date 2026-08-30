@@ -28,22 +28,39 @@ public class RileyLinkBluetoothDeviceProvider: NSObject {
         }
     }
 
-    // Isolated to centralQueue
+    /// Mutated only on centralQueue, but read from the main thread by the UI:
+    /// `shouldConnect(to:)` backs a SwiftUI autoconnect Binding and a table view
+    /// data source, and `connectingCount` backs "is anything connecting" checks.
+    /// Those reads used to touch the Set directly while centralQueue was mutating
+    /// it, which tore the storage and crashed with "unrecognized selector sent to
+    /// instance 0x8000000000000000" -- a garbage pointer being messaged. Toggling
+    /// a RileyLink switch repeatedly reproduced it within a couple of minutes
+    /// (LoopKit/Loop#2462).
+    ///
+    /// A lock rather than a centralQueue.sync hop: every reader is on the main
+    /// thread, and centralQueue work calls back to the main thread, so a
+    /// synchronous hop from the UI would risk deadlock.
+    private let lockedAutoConnectIDs: Locked<Set<String>>
+
     private var autoConnectIDs: Set<String> {
-        didSet {
-            delegate?.rileylinkDeviceProvider(self, didChange: RileyLinkConnectionState(autoConnectIDs: autoConnectIDs))
+        get {
+            return lockedAutoConnectIDs.value
+        }
+        set {
+            lockedAutoConnectIDs.value = newValue
+            delegate?.rileylinkDeviceProvider(self, didChange: RileyLinkConnectionState(autoConnectIDs: newValue))
         }
     }
 
     public var connectingCount: Int {
-        return self.autoConnectIDs.count
+        return self.lockedAutoConnectIDs.value.count
     }
 
     // Isolated to centralQueue
     private var isScanningEnabled = false
 
     public init(autoConnectIDs: Set<String>) {
-        self.autoConnectIDs = autoConnectIDs
+        self.lockedAutoConnectIDs = Locked(autoConnectIDs)
 
         super.init()
 
@@ -227,7 +244,7 @@ extension RileyLinkBluetoothDeviceProvider: RileyLinkDeviceProvider {
     }
 
     public func shouldConnect(to deviceID: String) -> Bool {
-        return self.autoConnectIDs.contains(deviceID)
+        return self.lockedAutoConnectIDs.value.contains(deviceID)
     }
 }
 
