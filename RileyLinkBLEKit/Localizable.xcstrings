@@ -81,6 +81,12 @@
             "state" : "translated",
             "value" : "Karakteristik değer boştu"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "特征值为空"
+          }
         }
       }
     },
@@ -599,7 +605,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "外设没有及时响应"
+            "value" : "外围设备没有及时响应"
           }
         }
       }
@@ -1892,6 +1898,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bilinmeyen karakteristik: %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未知特性：%@"
           }
         }
       }
