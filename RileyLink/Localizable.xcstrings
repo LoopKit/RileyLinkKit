@@ -760,7 +760,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "API密码"
+            "value" : "API密钥"
           }
         }
       }
@@ -1084,7 +1084,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrée l’ID de pompe de 6 chiffres"
+            "value" : "Entrez l’ID de pompe de 6 chiffres"
           }
         },
         "he" : {
@@ -1264,7 +1264,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preluați CGM"
+            "value" : "Preluați senzorul de glicemie"
           }
         },
         "ru" : {
@@ -1694,7 +1694,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "胰岛素泵序列号"
+            "value" : "泵ID"
           }
         }
       }
