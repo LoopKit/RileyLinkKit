@@ -65,7 +65,6 @@ public class RileyLinkBluetoothDeviceProvider: NSObject {
         super.init()
 
         centralQueue.sync {
-#if os(iOS) // watchOS has no CoreBluetooth state restoration
             central = CBCentralManager(
                 delegate: self,
                 queue: centralQueue,
@@ -73,13 +72,6 @@ public class RileyLinkBluetoothDeviceProvider: NSObject {
                     CBCentralManagerOptionRestoreIdentifierKey: "com.rileylink.CentralManager"
                 ]
             )
-#else
-            central = CBCentralManager(
-                delegate: self,
-                queue: centralQueue,
-                options: nil
-            )
-#endif
         }
     }
 
@@ -267,7 +259,6 @@ extension Array where Element == RileyLinkBluetoothDevice {
 
 // MARK: - Delegate methods called on `centralQueue`
 extension RileyLinkBluetoothDeviceProvider: CBCentralManagerDelegate {
-#if os(iOS) // watchOS has no CoreBluetooth state restoration (willRestoreState / restored-state keys are iOS-only)
     public func centralManager(_ central: CBCentralManager, willRestoreState dict: [String : Any]) {
         log.default("%@", #function)
 
@@ -279,7 +270,6 @@ extension RileyLinkBluetoothDeviceProvider: CBCentralManagerDelegate {
             addPeripheral(peripheral)
         }
     }
-#endif
 
     public func centralManagerDidUpdateState(_ central: CBCentralManager) {
         log.default("%@: %@", #function, central.state.description)
