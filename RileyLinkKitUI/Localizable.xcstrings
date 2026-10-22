@@ -10,12 +10,6 @@
             "value" : "%@ ديسيبل"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ dB"
-          }
-        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -160,12 +154,6 @@
       "comment" : "Unit format string for an value in percent",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@%%"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@%%"
@@ -326,12 +314,6 @@
             "value" : "Alert"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alert"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -470,12 +452,6 @@
       "comment" : "Text indicating LED Mode is auto",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Auto"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Auto"
@@ -624,12 +600,6 @@
             "value" : "Battery level"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Battery level"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -676,6 +646,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Livello Batteria"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batterinivå"
           }
         },
         "nb-NO" : {
@@ -763,12 +739,6 @@
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Commands"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Commands"
@@ -929,12 +899,6 @@
             "value" : "Connected"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Connected"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -981,6 +945,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Connesso"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilkoblet"
           }
         },
         "nb-NO" : {
@@ -1072,12 +1042,6 @@
             "value" : "Connecting"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Connecting"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1124,6 +1088,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "In fase di Connessione"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tilkobler"
           }
         },
         "nb-NO" : {
@@ -1210,12 +1180,6 @@
       "comment" : "The title of the cell for connection LED",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Connection LED"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Connection LED"
@@ -1308,7 +1272,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "LED de conectare"
+            "value" : "LED conectare"
           }
         },
         "ru" : {
@@ -1359,12 +1323,6 @@
       "comment" : "The title of the section for connection monitoring",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Connection Monitoring"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Connection Monitoring"
@@ -1511,12 +1469,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "حالة الإتصال"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Connection State"
           }
         },
         "da" : {
@@ -1668,12 +1620,6 @@
             "value" : "Connection Vibration"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Connection Vibration"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1737,7 +1683,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verbinding Trilling"
+            "value" : "Verbinding trilling"
           }
         },
         "pl" : {
@@ -1812,12 +1758,6 @@
       "comment" : "The title of the section describing the device",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Device"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Device"
@@ -1972,12 +1912,6 @@
             "value" : "الأجهزة"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Devices"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2127,12 +2061,6 @@
             "value" : "Disconnected"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Disconnected"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2179,6 +2107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Disconnesso"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frakoblet"
           }
         },
         "nb-NO" : {
@@ -2265,12 +2199,6 @@
       "comment" : "The in-progress disconnecting state",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Disconnecting"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Disconnecting"
@@ -2425,12 +2353,6 @@
             "value" : "Find Device"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Find Device"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2500,7 +2422,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zoek Apparaat"
+            "value" : "Zoek apparaat"
           }
         },
         "pl" : {
@@ -2524,7 +2446,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută dispozitivul"
+            "value" : "Căutați dispozitivul"
           }
         },
         "ru" : {
@@ -2578,12 +2500,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "البرنامج الثابت"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Firmware"
           }
         },
         "cs" : {
@@ -2736,12 +2652,6 @@
       "comment" : "The title of the cell showing current rileylink frequency",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Frequency"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Frequency"
@@ -2902,12 +2812,6 @@
             "value" : "Get RileyLink Statistics"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Get RileyLink Statistics"
-          }
-        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2977,7 +2881,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "RileyLink Statistieken Ophalen"
+            "value" : "RileyLink statistieken ophalen"
           }
         },
         "pl" : {
@@ -3052,12 +2956,6 @@
       "comment" : "Progress message for getting statistics.",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Get Statistics…"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Get Statistics…"
@@ -3138,7 +3036,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Statistieken Ophalen..."
+            "value" : "Statistieken ophalen…"
           }
         },
         "pl" : {
@@ -3218,12 +3116,6 @@
             "value" : "Lighten Red LED"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lighten Red LED"
-          }
-        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3293,7 +3185,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rode LED Verlichten"
+            "value" : "Rode LED verlichten"
           }
         },
         "pl" : {
@@ -3317,7 +3209,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aprindeți LED-ul roșu"
+            "value" : "Aprindeți LED roșu"
           }
         },
         "ru" : {
@@ -3368,12 +3260,6 @@
       "comment" : "The title of the cell showing Lighten Yellow LED",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lighten Yellow LED"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lighten Yellow LED"
@@ -3448,7 +3334,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gele LED Verlichten"
+            "value" : "Gele LED verlichten"
           }
         },
         "pl" : {
@@ -3472,7 +3358,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aprindeți LED-ul galben"
+            "value" : "Aprindeți LED galben"
           }
         },
         "ru" : {
@@ -3523,12 +3409,6 @@
       "comment" : "The title of the cell showing battery level",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Low Battery Alert"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Low Battery Alert"
@@ -3603,7 +3483,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Batterij Bijna Leeg Alarm"
+            "value" : "Batterij bijna leeg alarm"
           }
         },
         "pl" : {
@@ -3683,12 +3563,6 @@
             "value" : "الاسم"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Name"
-          }
-        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3729,12 +3603,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Name"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "नाम"
           }
         },
         "hu" : {
@@ -3850,12 +3718,6 @@
             "value" : "Off"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Off"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3902,6 +3764,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Spento"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Av"
           }
         },
         "nb-NO" : {
@@ -3993,12 +3861,6 @@
             "value" : "On"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "On"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4045,6 +3907,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Acceso"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "På"
           }
         },
         "nb-NO" : {
@@ -4131,12 +3999,6 @@
       "comment" : "RileyLink setup description",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "RileyLink allows for communication with the pump over Bluetooth Low Energy."
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "RileyLink allows for communication with the pump over Bluetooth Low Energy."
@@ -4297,12 +4159,6 @@
             "value" : "Signal Strength"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Signal Strength"
-          }
-        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4458,12 +4314,6 @@
             "value" : "Test Commands"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Test Commands"
-          }
-        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4533,7 +4383,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Commando's Testen"
+            "value" : "Commando's testen"
           }
         },
         "pl" : {
@@ -4613,12 +4463,6 @@
             "value" : "Test Vibration"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Test Vibration"
-          }
-        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4688,7 +4532,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Test Trillingen"
+            "value" : "Test trillingen"
           }
         },
         "pl" : {
@@ -4768,12 +4612,6 @@
             "value" : "Toggle Diagnostic LEDs"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Toggle Diagnostic LEDs"
-          }
-        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4843,7 +4681,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tokkel de Diagnostische LED's"
+            "value" : "Tokkel de diagnostische LED's"
           }
         },
         "pl" : {
@@ -4867,7 +4705,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comutarea LED-urilor de diagnosticare"
+            "value" : "Comutați diagnosticare LED"
           }
         },
         "ru" : {
@@ -4918,12 +4756,6 @@
       "comment" : "Progress message for changing diagnostic LED mode",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Updating diagnostic LEDs mode"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Updating diagnostic LEDs mode"
@@ -5022,7 +4854,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actualizarea modului de diagnostic al LED-urilor"
+            "value" : "Actualizarea modului de diagnostic LED"
           }
         },
         "ru" : {
@@ -5073,12 +4905,6 @@
       "comment" : "The title of the cell showing uptime",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uptime"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uptime"
@@ -5234,12 +5060,6 @@
       "comment" : "The title of the cell showing ORL",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voltage"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Voltage"
