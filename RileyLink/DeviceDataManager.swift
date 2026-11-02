@@ -79,7 +79,7 @@ extension DeviceDataManager: PumpManagerDelegate {
     func pumpManager(_ pumpManager: PumpManager, didUpdate status: PumpManagerStatus, oldStatus: PumpManagerStatus) {
     }
     
-    func pumpManagerWillDeactivate(_ pumpManager: PumpManager) {
+    func pumpManagerWantsDeletion(_ pumpManager: PumpManager) async {
         self.pumpManager = nil
     }
     
